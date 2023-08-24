@@ -6,18 +6,16 @@ Software Developer, Student
 
 Studied 3 years of Information and communication technologies at Turun ammatti-instituutti. Learning Front-end web development and usage of frameworks.
 
-* 🌍  I'm based in Turku, Finland
-* 🖥️  See my portfolio at [Website](http://furqannoor.dev)
-* ✉️  You can contact me at [furqannoor311@gmail.com](mailto:furqannoor311@gmail.com)
-* 🧠  I'm learning everything JavaScript
+* 🌍  I'm based in Turku, Finland
+* 🖥️  See my portfolio at [Website](http://furqannoor.dev)
+* ✉️  You can contact me at [furqannoor311@gmail.com](mailto:furqannoor311@gmail.com)
+* 🧠  I'm learning everything JavaScript
 
 ### Skills
-
 
 <p align="left">
 ICON ICON ICON ICON ICON
 </p>
-
 
 ### Socials
 
