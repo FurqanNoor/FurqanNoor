@@ -3,7 +3,9 @@
 [![Furqan Noor](https://readme-typing-svg.herokuapp.com?font=Hubot+San&size=80&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=1100&height=100&lines=Furqan+Noor)](https://github.com/FurqanNoor)
 
 ###
-<p align="left">I'm Furqan Noor. I'm 19 and studying software engineering. I'm based in Finland and have been living here since 2011. I'm fluent in Finnish, English and Urdu. <br><br>I mostly code in HTML, CSS, and Javascript. I'm mostly learning JavaScript, Python, React.</p>
+<p align="left">I'm Furqan Noor. I'm 20 and studying software engineering. I'm based in Finland and have been living here since 2011. I'm fluent in Finnish, English and Urdu. <br><br>I'm passionate about becoming a Full-Stack Developer, but right now, I'm deeply immersed in the front-end. I'm working with technologies like React, Typescript, Tailwind CSS, and Framer Motion to create intuitive and dynamic user experiences. As I continue sharpening my skills, my goal is to transition into full-stack development and broaden my expertise across the entire development process.
+
+Always eager to learn, grow, and collaborate</p>
 
 ###
 
