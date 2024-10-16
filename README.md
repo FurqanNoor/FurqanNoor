@@ -4,7 +4,7 @@
 
 ###
 <p align="left">I’m Furqan Noor, a 20-year-old software engineering student based in Finland, where I have lived since 2011. I am fluent in Finnish, English, and Urdu.<br><br>
-I'm passionate about becoming a Full-Stack Developer, but right now, I'm deeply immersed in the front-end. I'm working with technologies like React, Next.js, Typescript, Tailwind CSS, and Framer Motion to create intuitive and dynamic user experiences. As I continue sharpening my skills, my goal is to transition into full-stack development and broaden my expertise across the entire development process.
+I'm passionate about becoming a Full-Stack Developer, but right now, I'm immersed in the front-end. I'm working with technologies like React, Next.js, Typescript, Tailwind CSS, and Framer Motion to create intuitive and dynamic user experiences. As I continue sharpening my skills, my goal is to transition into full-stack development and broaden my expertise across the entire development process.
   
 Always eager to learn, grow, and collaborate!</p>
 
