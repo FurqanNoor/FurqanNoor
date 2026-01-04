@@ -3,7 +3,7 @@
 [![Furqan Noor](https://readme-typing-svg.herokuapp.com?font=Hubot+San&size=80&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=1100&height=100&lines=Furqan+Noor)](https://github.com/FurqanNoor)
 
 ###
-<p align="left">Hi! I’m Furqan Noor, a 20-year-old student based in Finland, where I’ve lived since 2011. I’m currently studying Mechanical Engineering at Turku University of Applied Sciences, with a background in Software Development from Turku Vocational Institute.
+<p align="left">Hi! I’m Furqan Noor, a 21-year-old student based in Finland, where I’ve lived since 2011. I’m currently studying Mechanical Engineering at Turku University of Applied Sciences, with a background in Software Development from Turku Vocational Institute.
 
 Even though my current studies are in engineering, my true passion lies in the ICT field—particularly programming and technology. Right now, I’m focused on front-end development, working with tools like React, Next.js, TypeScript, Tailwind CSS, and Framer Motion to build engaging, user-friendly applications. My long-term goal is to grow into a Full-Stack Developer, expanding my expertise across the entire development process.
 
